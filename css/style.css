@@ -536,7 +536,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #d9534f;
 }
 
-#fh5co-services-section, #fh5co-work-section, #fh5co-testimony-section,
+#fh5co-services-section, #fh5co-work-section, #fh5co-testimony-section, #fh4co-services-section,
 #fh5co-blog-section {
   padding: 7em 0;
 }
@@ -565,7 +565,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: 700;
 }
 
-.fh5co-services {
+.fh4co-services {
   margin-top: 4em;
 }
 
